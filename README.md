@@ -14,3 +14,6 @@ Here're some of the project's best features:
 *   Timer support
 *   Mobile app
 *   Motion detection
+
+<h2>Circuit Diagram</h2>
+<p align="center"><img src="https://github.com/ismailariyan/iot-pet-feeder/blob/7d9dbcb69a28b691a6547e932abd3b7e5495f32f/iot-pet-feeder-circuit-diagram.png" alt="circuit diagram"></p>
