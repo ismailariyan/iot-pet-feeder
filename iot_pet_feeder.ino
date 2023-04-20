@@ -44,7 +44,7 @@ void setup() {
   delay(100);
   BlynkEdgent.begin();
   timer.setInterval(100L, sendMotion);
-  servo_1.attach(23);
+  servo_1.attach(12);
   timeClient.begin();
 }
 
